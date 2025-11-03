@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "platform": "twitter",
+      "author": "designerA",
+      "text": "Love the new workspace layout! Great lighting and awesome vibes.",
+      "like_count": 120,
+      "share_count": 45,
+      "comment_count": 10,
+      "created_at": "2024-04-01T12:00:00Z",
+      "hashtags": ["workspace", "design"]
+    },
+    {
+      "id": "2",
+      "platform": "twitter",
+      "author": "manager42",
+      "text": "The new seating arrangement is a success. Team collaboration is fantastic.",
+      "like_count": 95,
+      "share_count": 30,
+      "comment_count": 12,
+      "created_at": "2024-04-02T09:30:00Z",
+      "hashtags": ["team", "success"]
+    },
+    {
+      "id": "3",
+      "platform": "instagram",
+      "author": "creative_space",
+      "text": "Our reading nook makeover turned out awesome!", 
+      "like_count": 210,
+      "share_count": 60,
+      "comment_count": 25,
+      "created_at": "2024-04-03T18:15:00Z",
+      "hashtags": ["reading", "nook", "awesome"]
+    },
+    {
+      "id": "4",
+      "platform": "instagram",
+      "author": "spacecritic",
+      "text": "Not happy with the noise levels in the open office. Needs improvement.",
+      "like_count": 30,
+      "share_count": 5,
+      "comment_count": 20,
+      "created_at": "2024-04-04T08:45:00Z",
+      "hashtags": ["noise", "problem"]
+    },
+    {
+      "id": "5",
+      "platform": "linkedin",
+      "author": "betterspace_ai",
+      "text": "Excited to share our latest case study on better space utilization!",
+      "like_count": 160,
+      "share_count": 80,
+      "comment_count": 15,
+      "created_at": "2024-04-05T14:20:00Z",
+      "hashtags": ["casestudy", "space"]
+    }
+  ]
+}
